@@ -1,0 +1,12 @@
+
+# Maximum number of characters in the custom name
+max-name-length: 20
+
+# Feel free to change these
+messages:
+  message-success: "&aSuccessfully renamed &3{item-name}&r&a to &b{new-name}&r&a."
+  message-tolong: "&aYour custom name is too long, it must be &c{char-len}&r or less."
+  form:
+    form-title: "&l&3Rename item"
+    form-content: "&7Rename your item"
+    form-input: "&8Use the and symbol for color"
