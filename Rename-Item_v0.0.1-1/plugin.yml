@@ -2,5 +2,6 @@
 name: Rename-Item
 version: 0.0.1
 main: RageDevvv\Rename_Item\Main
+author: RageDevv
 api: 3.19.0
 ...
